@@ -3,7 +3,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.luv2code.springdemo</groupId>
-	<artifactId>SpringREST-Hibernate_CRUD-CRM-App</artifactId>
+	<artifactId>spring-rest-crud-crm-app</artifactId>
 	<version>1.0.0</version>
 	<packaging>war</packaging>
 
